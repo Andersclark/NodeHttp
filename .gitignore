@@ -1,0 +1,9 @@
+#OUTPUT
+build
+
+#DEPENDENCIES
+node_modules
+
+# IDE's
+.idea
+.code
